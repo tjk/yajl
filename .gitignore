@@ -3,3 +3,11 @@ Makefile
 /build/
 YAJL.dxy
 /yajl-*
+
+# cmake
+CMakeFiles
+bin
+cmake_install.cmake
+include
+lib
+share
