@@ -11,3 +11,9 @@ cmake_install.cmake
 include
 lib
 share
+
+# binaries
+example/parse_config
+perf/perftest
+reformatter/json_reformat
+verify/json_verify
